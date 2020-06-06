@@ -1,1 +1,1 @@
-Console.WriteLine("Exercise 1 in C#")
+Console.WriteLine("Exercise 1 of C#")
