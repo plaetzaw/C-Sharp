@@ -144,7 +144,7 @@ namespace ExquisiteCorpse
       Console.WriteLine(" {_[ (_,_)");
     }
 
-    static void MonsterFeet()
+    static void MonsterFeet()`
     {
       Console.WriteLine("    |  Y  |");
       Console.WriteLine("   /   |   \\");
